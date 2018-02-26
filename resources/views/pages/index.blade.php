@@ -92,7 +92,7 @@
                     <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                 </div>
                 <div class="col-md-5">
-                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+                    <img class="featurette-image img-fluid mx-auto" src="http://cdn.wonderfulengineering.com/wp-content/uploads/2016/02/wallpaper-background-12-1.jpg" alt="Generic placeholder image">
                 </div>
             </div>
 
@@ -104,7 +104,7 @@
                     <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                 </div>
                 <div class="col-md-5 order-md-1">
-                    <img class="featurette-image img-fluid mx-auto" data-src="http://www.powerpointhintergrund.com/uploads/2017/06/--beautiful-wallpaper-backgrounds-and-background-hd-wallpaper-31.jpeg" alt="Generic placeholder image">
+                    <img class="featurette-image img-fluid mx-auto" src="https://photofiles.alphacoders.com/405/40594.jpg   " alt="Generic placeholder image">
                 </div>
             </div>
 
@@ -116,7 +116,7 @@
                     <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                 </div>
                 <div class="col-md-5">
-                    <img class="https://static.pexels.com/photos/531880/pexels-photo-531880.jpeg" data-src="http://www.hbcugala.com/wp-content/uploads/2017/12/Luxury-Background-Photos-Hd-60-For-Hd-Computer-Backgrounds-with-Background-Photos-Hd.jpg" alt="Generic placeholder image">
+                    <img class="third picture" src="http://www.hbcugala.com/wp-content/uploads/2017/12/Luxury-Background-Photos-Hd-60-For-Hd-Computer-Backgrounds-with-Background-Photos-Hd.jpg" alt="Generic placeholder image">
                 </div>
             </div>
 
