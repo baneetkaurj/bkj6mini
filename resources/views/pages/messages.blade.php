@@ -15,4 +15,3 @@
         </ul>
     </div>
 
-        <a href="/viewmessages" class="btn btn-primary mt-2" style="width: 8rem;">View Issues</a>
