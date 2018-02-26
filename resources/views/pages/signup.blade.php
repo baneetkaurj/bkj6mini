@@ -1,10 +1,10 @@
 @extends('layouts.default')
 
 @section('content')
+    <div class="container" mt-5">
+    <h2>Signup here</h2>
 
-    <form action="/" method="post">
-        {{csrf_field()}}
-        <div class="form-group row">
+    <div class="form-group row">
             <label for="name" class="col-sm-2 col-form-label">Name</label>
             <div class="col-sm-5">
                 <input type="name" class="form-control" id="name" placeholder="Name">
@@ -29,6 +29,5 @@
             </div>
         </div>
 
-        <button type="submit" class="btn btn-primary mb-2">Submit</button>
-
+        <a href="/" class="btn btn-primary mt-2">Submit</a>
     </form>

@@ -1,8 +1,8 @@
 @extends('layouts.default')
 
 @section('content')
-
     <div class="container" mt-5">
+    <h2>Login</h2>
 
 
     <div class="form-group row">
