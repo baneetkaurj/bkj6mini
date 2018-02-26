@@ -1,21 +1,21 @@
 <!doctype html>
 <html lang="en">
 
-@include('includes.head')
+@include('includes.head1')
 
 <body>
 
 <div class="container">
 <header>
-    @include('includes.menu')
+    @include('includes.menu1')
 </header>
 
 <main role="main">
     @yield('content')
 </main>
-@include('includes.jsfooter')
+@include('includes.jsfooter1')
 <footer>
-    @include('includes.footer')
+    @include('includes.footer1')
 </footer>
 </div>
 </body>
