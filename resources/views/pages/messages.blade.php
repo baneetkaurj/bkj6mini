@@ -13,5 +13,6 @@
             <li class="list-group-item">From Email: iambaneetkaur@gmail.com</li>
             <li class="list-group-item">Message: If you are facing any issues, please click below to identify the issue.</li>
         </ul>
+        <a href="/viewmessages">View issues</a>
     </div>
 
