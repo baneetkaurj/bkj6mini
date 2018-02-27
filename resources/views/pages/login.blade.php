@@ -17,5 +17,6 @@
             <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
         </div>
     </div>
-    <button type="submit" class="btn btn-primary mb-2">Submit</button><br>
+    <a href="/" class="btn btn-primary mt-2">Submit</a><br>
+
     <a href="/signup">New around here? Sign up</a>
